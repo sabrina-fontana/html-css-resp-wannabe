@@ -83,22 +83,22 @@ img {
   .row {
     max-width: 420px;
     width: 100%;
-    margin-top: 20px;
+    margin-top: 25px;
   }
 
   #lezioni .row>.left, #lezioni .row>.right {
     width: 100%;
-    padding: 15px;
+    padding: 10px 15px;
   }
 
   #steps .row>.left, #steps .row>.central, #steps .row>.right {
     width: 100%;
-    padding: 15px;
+    padding: 10px 15px;
   }
 
   #why .row>.first, #why .row>.second, #why .row>.third {
-    margin-top: 30px;
-    padding: 15px;
+    margin: 20px 0;
+    padding: 10px 15px;
   }
 
   hr {
@@ -127,6 +127,6 @@ img {
   }
 
   div {
-    font-size: 16px;
+    font-size: 17px;
   }
 }
